@@ -1,6 +1,8 @@
 # moonterminal
 a terrible terminal in python
 
+I was somehow sane enough to run this.
+
 this terminal only carries a few basic commands:
 --land--
 SL print command
